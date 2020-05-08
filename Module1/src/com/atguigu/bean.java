@@ -44,6 +44,7 @@ class Bean {
     }
 
     public void test11(){
+        //测试字面量在常量池里的地址和字面量的结合
         String str1 ="hello world";
         String str2 ="hello";
         String str3 =str2+" world";
