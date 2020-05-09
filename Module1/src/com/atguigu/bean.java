@@ -20,9 +20,7 @@ class Bean {
         ArrayList a = new ArrayList();
         Map map=new HashMap<>();
         test1();
-        int aa =1 ;
-        aa=aa++;
-        System.out.println(aa);
+
 
 
         //        method();
